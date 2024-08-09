@@ -11,3 +11,4 @@ Data preprocessing of gutenberg database
 5. step 5 - use lemmatization
 
 These are the basic data preprocessing techniques which can be applied to any database
+these preprocessing techniques are mostly used.
