@@ -9,3 +9,5 @@ Data preprocessing of gutenberg database
 3. step 3 - convert to lowercase
 4. step 4 - use stemmer
 5. step 5 - use lemmatization
+
+These are the basic data preprocessing techniques which can be applied to any database
